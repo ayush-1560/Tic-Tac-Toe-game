@@ -1,0 +1,1 @@
+A simple JavaScript project on a famous game called Ti-Tac -Toe. Most of us have played this game on pen and paper . I have done the same thing using HTML , CSS And JavaScript. If you want to see it live, you can try it on this link tic-tac-toe-1560.netlify.app
